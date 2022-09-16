@@ -1,0 +1,15 @@
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\bin\Debug\net6.0\AtividadeApp03.exe
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\bin\Debug\net6.0\AtividadeApp03.deps.json
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\bin\Debug\net6.0\AtividadeApp03.runtimeconfig.json
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\bin\Debug\net6.0\AtividadeApp03.dll
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\bin\Debug\net6.0\AtividadeApp03.pdb
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\AtividadeApp03.csproj.AssemblyReference.cache
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\AtividadeApp03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\AtividadeApp03.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\AtividadeApp03.AssemblyInfo.cs
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\AtividadeApp03.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\AtividadeApp03.dll
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\refint\AtividadeApp03.dll
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\AtividadeApp03.pdb
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\AtividadeApp03.genruntimeconfig.cache
+C:\Users\henri\source\repos\AtividadeApp03\AtividadeApp03\obj\Debug\net6.0\ref\AtividadeApp03.dll

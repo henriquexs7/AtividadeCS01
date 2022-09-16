@@ -1,0 +1,15 @@
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\bin\Debug\net6.0\AtividadeApp05.exe
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\bin\Debug\net6.0\AtividadeApp05.deps.json
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\bin\Debug\net6.0\AtividadeApp05.runtimeconfig.json
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\bin\Debug\net6.0\AtividadeApp05.dll
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\bin\Debug\net6.0\AtividadeApp05.pdb
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\AtividadeApp05.csproj.AssemblyReference.cache
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\AtividadeApp05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\AtividadeApp05.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\AtividadeApp05.AssemblyInfo.cs
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\AtividadeApp05.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\AtividadeApp05.dll
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\refint\AtividadeApp05.dll
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\AtividadeApp05.pdb
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\AtividadeApp05.genruntimeconfig.cache
+C:\Users\henri\source\repos\AtividadeApp05\AtividadeApp05\obj\Debug\net6.0\ref\AtividadeApp05.dll
